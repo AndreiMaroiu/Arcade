@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Proiect Mip:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Proiect_Mip_jar</output-path>
+    <root id="archive" name="Proiect Mip.jar">
+      <element id="module-output" name="Proiect Mip" />
+    </root>
+  </artifact>
+</component>
